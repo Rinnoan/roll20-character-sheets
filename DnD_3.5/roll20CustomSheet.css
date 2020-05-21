@@ -189,7 +189,7 @@ input.sheet-acitemusesmaxdex:checked~div.sheet-acitembonuscap {display:none;}
 /* Rin's Classes for Sane CSS */
 
 .sheet-dragonheader {
-	background: url("http://i.imgur.com/8uqQ1xi.png"), linear-gradient(#fff, #fff 2px, #000 2px, #000 18px, #fff 18px);
+	background: url("https://raw.githubusercontent.com/Rinnoan/roll20-character-sheets/DnD_3.5-Rinnoan/DnD_3.5/images/DragonIcon.png"), linear-gradient(#fff, #fff 2px, #000 2px, #000 18px, #fff 18px);
 	background-repeat: no-repeat;
 	padding-left: 25px;
 	padding-right: 10px;
@@ -220,7 +220,7 @@ input.sheet-acitemusesmaxdex:checked~div.sheet-acitembonuscap {display:none;}
 
 
 .sheet-large-dragonheader {
-	background: url("http://i.imgur.com/I8QJy9b.png"), linear-gradient(#fff, #fff 6px, #000 6px, #000 49px, #fff 49px);
+	background: url("https://raw.githubusercontent.com/Rinnoan/roll20-character-sheets/DnD_3.5-Rinnoan/DnD_3.5/images/LargeDragonIcon.png"), linear-gradient(#fff, #fff 6px, #000 6px, #000 49px, #fff 49px);
 	background-repeat: no-repeat;
 	padding-left: 75px;
 	padding-right: 10px;
