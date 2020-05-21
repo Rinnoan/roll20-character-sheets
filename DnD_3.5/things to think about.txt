@@ -1,0 +1,2 @@
+Add button to sheet to reset all temp values
+maybe make it possible to flip a bunch of stats in a macro or something!  push button to change it, and again to change it back!
